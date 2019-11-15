@@ -1,1 +1,6 @@
-igdgdgdg
+1. Change
+B
+D
+2. git commit -u "text"
+3. git push
+
